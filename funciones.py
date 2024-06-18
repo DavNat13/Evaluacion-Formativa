@@ -1,13 +1,12 @@
 #Definir funciones: 
 trabajadores = []
-
+cargos = ["CEO", "Desarrollador", "Analista de datos"]
 
 def registrar_trabajador():
     nombre = input("Ingrese el nombre del trabajador: ")
     apellido = input("Ingrese el apellido del trabajador: ")
     cargo = input("Ingrese el cargo del trabajador: ")
     try:
-
         sueldo_bruto = float(input("Ingrese el sueldo bruto del trabajador: "))
     except:
         print("Dato no válido...")
@@ -31,10 +30,8 @@ def registrar_trabajador():
         archivo.write("\n")
     trabajadores.append(trabajador)
     print("Trabajador registrado exitosamente.\n")  
-
 def mostrarr():
     print(trabajadores)
-
 def salir():
     print("Saliendo del programa...")
     exit()

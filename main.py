@@ -13,11 +13,10 @@ while True:
         elif opcion == 2:
             llamar.mostrarr()
         elif opcion == 3:
-
-            print("Opcion 3")
+            print("Disculpe profe, no nos dió pa ma'")
         elif opcion == 4:
             llamar.salir()
-            print("Opcion 4")
+            print("Disculpe profe, no nos dió pa ma'")
         else:
             print("Opción no válida... Vuelva a intentarlo...")
 
