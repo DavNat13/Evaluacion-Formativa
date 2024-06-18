@@ -1,0 +1,11 @@
+
+
+Nombre	 Apellido	Cargo 	Sueldo Bruto 	Desc. Salud 	Desc. AFP 	Líquido a pagar
+adasda	asdas	ceo	 33434343.0 	 2340404.0100000002	4012121.1599999997 	27081817.83
+
+Nombre	 Apellido	Cargo 	Sueldo Bruto 	Desc. Salud 	Desc. AFP 	Líquido a pagar
+fdfdfd	dfdfdfd    	ceo	 223232323.0 	 15626262.610000001	26787878.759999998 	180818181.63
+
+Nombre	 Apellido	Cargo 	Sueldo Bruto 	Desc. Salud 	Desc. AFP 	Líquido a pagar
+deddsdsdsd	sdsdsdsd  	ceo	 23232323.0 	 1626262.61	2787878.76 	18818181.630000003
+
