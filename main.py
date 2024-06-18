@@ -1,3 +1,12 @@
+"""
+Integrantes: 
+- Ignacio Chacón
+- Matías Molina
+- David Nahuelcar
+
+Sección: FPY1101-004D
+"""
+
 import funciones as llamar
 
 while True:
